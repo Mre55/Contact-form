@@ -1,73 +1,47 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Contact Form
 
-# Project Name
-
-> Description the project.
-
+This is a basic website that have a contact form that allows the user to submit their comments.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- Major languages: HTML and CSS
+- Technologies used: GitHub for version control
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**To use this project you need to clone the repository to your local machine, and open the folder then run index.html file which is the main file of the project.**
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+To work on this project locally you need to have Node.js installed in your machine.
+
 ### Setup
+
+You need to have text editor (VS code, Atom) or any of your choice.
 
 ### Install
 
+You have to have Node.js installed before working on this project.
+
 ### Usage
 
-### Run tests
-
-### Deployment
+You can start using Contact Form by cloning the repository.
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Mihreteab Misganaw Aride**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Mre55](https://github.com/Mre55)
+- Twitter: [@MreMisganaw](https://twitter.com/MreMisganaw)
+- LinkedIn: [@Mihreteab Aride](https://www.linkedin.com/in/mihreteab-aride-86249812b/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
