@@ -325,3 +325,90 @@ li {
 .skills {
   list-style: inside url("../media/svg/circle.svg");
 }
+
+.contat-form {
+  height: 100vh;
+  padding: 0 24px;
+}
+
+.contact-form-top-section {
+  height: 95vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.contact-form-top-section h2 {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 44px;
+  text-align: center;
+  color: #172B4D;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px;
+  height: 330px;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  margin: 58px 0px;
+}
+
+form textarea {
+  background: #FBF8F7;
+  border: none;
+  padding: 12px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 24px;
+  margin: 24px 0 0;
+}
+
+form button {
+  background: #FF6B00;
+  color: #fff;
+  width: 131px;
+  height: 48px;
+  left: 98px;
+  top: calc(50% - 48px/2 + 141px);
+  border: none;
+  margin: 24px 0;
+}
+
+#fullName,
+#email {
+  padding: 12px;
+  width: 100%;
+  border: none;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  color: #979493;
+}
+
+.horizontal-vector {
+  height: 1px;
+  width: 100%;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  background: #DBD8D7;
+}
+
+.contact-form-bottom-section {
+  display: flex;
+  justify-content: center;
+}
