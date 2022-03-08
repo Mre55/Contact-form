@@ -1,0 +1,27 @@
+{
+  "name": "Contact-form",
+  "version": "1.0.0",
+  "description": "This is a basic website that have a contact form that allows the user to submit their comments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mre55/Contact-form.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mre55/Contact-form/issues"
+  },
+  "homepage": "https://github.com/Mre55/Contact-form#readme",
+  "devDependencies": {
+    "hint": "^6.1.9",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
