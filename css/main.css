@@ -340,56 +340,48 @@ li {
 }
 
 .contact-form-top-section h2 {
-  font-family: Inter;
   font-style: normal;
   font-weight: bold;
   font-size: 32px;
   line-height: 44px;
   text-align: center;
-  color: #172B4D;
+  color: #172b4d;
 }
 
 form {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 0px;
+  padding: 0;
   height: 330px;
   flex: none;
   order: 1;
   flex-grow: 0;
-  margin: 58px 0px;
+  margin: 58px 0;
 }
 
 form textarea {
-  background: #FBF8F7;
-  border: none;
   padding: 12px;
-  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 15px;
   line-height: 24px;
-  margin: 24px 0 0;
 }
 
 form button {
-  background: #FF6B00;
+  background: #ff6b00;
   color: #fff;
   width: 131px;
   height: 48px;
   left: 98px;
-  top: calc(50% - 48px/2 + 141px);
   border: none;
-  margin: 24px 0;
+  margin: 24px 0 0;
 }
 
 #fullName,
 #email {
   padding: 12px;
   width: 100%;
-  border: none;
-  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 15px;
@@ -397,15 +389,6 @@ form button {
   display: flex;
   align-items: center;
   color: #979493;
-}
-
-.horizontal-vector {
-  height: 1px;
-  width: 100%;
-  left: 0px;
-  right: 0px;
-  bottom: 0px;
-  background: #DBD8D7;
 }
 
 .contact-form-bottom-section {
