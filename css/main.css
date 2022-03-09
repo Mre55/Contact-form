@@ -340,6 +340,7 @@ li {
 }
 
 .contact-form-top-section h2 {
+  font-family: "Inter", serif;
   font-style: normal;
   font-weight: bold;
   font-size: 32px;
@@ -349,6 +350,7 @@ li {
 }
 
 form {
+  font-family: "Inter", serif;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -366,6 +368,9 @@ form textarea {
   font-weight: normal;
   font-size: 15px;
   line-height: 24px;
+  border: none;
+  background: #fbf8f7;
+  margin: 24px 0 0;
 }
 
 form button {
@@ -389,9 +394,19 @@ form button {
   display: flex;
   align-items: center;
   color: #979493;
+  border: none;
 }
 
 .contact-form-bottom-section {
   display: flex;
   justify-content: center;
+}
+
+.horizontal-vector {
+  height: 1px;
+  width: 100%;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #dbd8d7;
 }
